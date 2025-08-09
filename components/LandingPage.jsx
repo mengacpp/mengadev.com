@@ -659,13 +659,6 @@ export default function LandingPage() {
     <div className="min-h-screen bg-background text-foreground antialiased">
       <Header />
       <Hero />
-      <LogoCloud />
-      <Features />
-      <HowItWorks />
-      <Testimonials />
-      <Pricing />
-      <FAQ />
-      <Newsletter />
       <Footer />
     </div>
   );
